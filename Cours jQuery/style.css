@@ -1,0 +1,7 @@
+*{
+	margin: 10px;
+	border: 5px solid red;
+}
+html,body{
+	border: none;
+}
